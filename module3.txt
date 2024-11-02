@@ -1,0 +1,29 @@
+
+
+Security frameworks
+
+    guidelines used for building plans to help mitigate risk and threats to data and privacy
+
+    purpose of frameworks
+
+        protecting PIIs(personally identifiable info), securing financial information, identifying security weaknesses,
+         managing organizational risks, and aligning security with business goals.
+
+    
+    There are several security frameworks that may be used to manage different types of organizational and regulatory compliance risks.
+
+    Frameworks have four core component
+        identifying and documenting security goals
+        setting guidelines to achieve security goals.
+        implementing strong security processes
+        monitoring and communicating results
+
+
+
+    Frameworks allow analysts to work alongside other members of the security team to document, implement,
+        and use the policies and procedures that have been created. It's essential for an entry-level analyst to understand this process
+         because it directly affects the work they do and how they collaborate with others
+
+
+Security controls
+    safeguards designed to reduce specific security risks
