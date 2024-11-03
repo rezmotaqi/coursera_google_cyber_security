@@ -1,0 +1,80 @@
+SIEM Tools
+    Purpose: Security Information and Event Management (SIEM) tools collect and analyze log data, helping organizations monitor activities,
+     detect threats, and alert analysts to potential risks.
+    Dashboards: They offer visual dashboards for categorizing and reviewing data.
+    Hosting Options: Available in both on-premise and cloud-hosted options, with cloud hosting often preferred by less experienced teams due
+     to its ease of setup and maintenance.
+
+
+Network Protocol Analyzers (Packet Sniffers)
+
+    Function: Capture and analyze data traffic within a network, recording all interactions a computer encounters.
+     Common tools in this category are known as packet sniffers.
+    Usage: Useful for security analysts to understand network activity and troubleshoot issues by examining captured data.
+
+
+Playbooks
+    Definition: Manuals outlining operational actions and procedures for handling security incidents.
+    Example Scenario: In a security breach at a small medical practice, a playbook could guide an analyst through forensic investigation steps
+     to support an insurance claim.
+    Types of Playbooks in Forensic Investigations:
+
+        Chain of Custody: Ensures that evidence is tracked and documented throughout the incident lifecycle to prevent mishandling.
+        Protecting and Preserving Evidence: Focuses on managing volatile digital evidence to maintain its integrity, using methods like
+         copying data to work on preserved copies, thereby preventing loss or alteration of original evidence.
+
+Key Takeaways
+    SIEM tools, network protocol analyzers, and playbooks are essential tools for security analysts.
+    Playbooks, especially for chain of custody and evidence preservation, are critical in forensic investigations, 
+     helping ensure evidence is handled correctly.
+    Forensic investigation is a broad field with more tools and procedures to explore beyond these basics.  
+
+
+
+
+Programming and Automation
+
+    Programming: Security analysts use languages like Python for automation to perform repetitive tasks efficiently and reduce human error.
+     SQL is another language used to interact with databases, allowing analysts to manage and query vast amounts of data.
+
+Operating Systems
+    Linux, macOS, and Windows: Each operating system provides unique functionality. Linux is open-source and involves using a command-line interface
+     for executing commands, making it popular among security professionals.
+
+Security Tools and Their Purposes
+    Web Vulnerability: Flaws in web applications that attackers can exploit. Staying updated on web vulnerabilities
+        (like those listed in the OWASP Top 10) is crucial to protecting applications.
+
+Antivirus Software: Detects, prevents, and eliminates malware and viruses by scanning device memory for malicious patterns.
+
+Intrusion Detection System (IDS): Monitors system activity and detects potential intrusions by analyzing network packets for unusual behavior.
+
+Encryption: Converts readable data (plaintext) into secure, encoded data (ciphertext) to maintain confidentiality and prevent unauthorized access.
+
+Penetration Testing
+    Pen Testing: Simulated attacks to identify vulnerabilities in systems, networks, and applications, helping organizations evaluate their
+     security posture.
+
+Key Takeaways
+    Tool Knowledge: Security analysts benefit from familiarity with a wide range of tools to perform tasks efficiently.
+    The more tools and processes you know, the more valuable you are in a security role.
+
+
+Glossary terms from module 4
+
+    Data point: A specific piece of information
+
+    Intrusion detection system (IDS): An application that monitors system activity and alerts on possible intrusions
+
+    Network protocol analyzer (packet sniffer): A tool designed to capture and analyze data traffic within a network
+
+    Order of volatility: A sequence outlining the order of data that must be preserved from first to last (when incident has happened)
+
+    Protecting and preserving evidence: The process of properly working with fragile and volatile digital evidence
+
+    Security information and event management (SIEM): An application that collects and analyzes log data to monitor critical
+     activities in an organization
+
+    Security posture: An organization’s ability to manage its defense of critical assets and data and react to change 
+
+        

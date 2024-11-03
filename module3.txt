@@ -14,7 +14,7 @@ Security frameworks
 
     Frameworks have four core component
         identifying and documenting security goals
-        setting guidelines to achieve security goals.
+        setting guidelines to achieve security goals.           
         implementing strong security processes
         monitoring and communicating results
 
@@ -26,4 +26,149 @@ Security frameworks
 
 
 Security controls
-    safeguards designed to reduce specific security risks
+    safeguards designed to reduce specific security risks => alongside frameworks => to ensure that security goals and processes are
+     implemented correctly and that organizations meet regulatory compliance requirements.
+
+
+Asset: is an item perceived as having value to an organization. value is determined by the cost associated with the asset in question.
+
+
+NIST CSF: Specific framework developed by the U.S.-based National Institute of Standards and Technology: the Cybersecurity Framework,
+ also referred to as the NIST CSF. The NIST Cybersecurity Framework is a voluntary framework that consists of standards, guidelines,
+  and best practices to manage cybersecurity risk.
+
+=> baseline to manage short and long-term risk => used to develop processes to secure organizations and the people they serve =>
+    Understanding the different motives a threat actor may have
+    Identifying your organization's most valuable assets
+
+security frameworks provide a structured approach to implementing a security lifecycle.
+    Security lifecycle is a constantly evolving set of policies and standards.
+
+    four core components:
+
+    Identifying and documenting security goals 
+
+    Setting guidelines to achieve security goals 
+
+    Implementing strong security processes
+
+    Monitoring and communicating results
+
+Compliance is the process of adhering to internal standards and external regulations
+
+Examples of frameworks:
+    
+    NIST Cybersecurity Framework (CSF) and the NIST Risk Management Framework (RMF)
+
+
+    FERC-NERC is a regulation that applies to organizations that work with electricity or that are involved with the U.S power grid
+    => legally required to adhere to the Critical Infrastructure Protection (CIP) Reliability Standards defined by the FERC.
+
+
+    FedRAMP is a U.S. federal government program that standardizes security assessment, authorization, monitoring, and handling of
+    cloud services and product offerings. Its purpose is to provide consistency across the government sector and third-party cloud providers.
+
+
+    CIS is a nonprofit with multiple areas of emphasis. It provides a set of controls that can be used to safeguard systems and networks against attacks. 
+    provides actionable controls that security professionals may follow if a security incident occurs. 
+
+
+    GDPR is a European Union (E.U.) general data regulation that protects the processing of E.U. residents’ data and their right to privacy in and out of E.U.
+    territory. For example, if an organization is not being transparent about the data they are holding about an E.U. citizen and why they are holding that data,
+    this is an infringement that can result in a fine to the organization. Additionally, if a breach occurs and an E.U. citizen’s data is compromised, they must be informed.
+    The affected organization has 72 hours to notify the E.U. citizen about the breach
+
+
+    PCI DSS is an international security standard meant to ensure that organizations storing, accepting, processing, and transmitting credit card information do so in a secure environment.
+    The objective of this compliance standard is to reduce credit card fraud. 
+
+
+    The Health Insurance Portability and Accountability Act (HIPAA)
+        HIPAA is a U.S. federal law established in 1996 to protect patients' health information. This law prohibits patient information from being shared without their consent.
+        It is governed by three rules: 
+
+            Privacy
+
+            Security 
+
+            Breach notification 
+
+    Organizations that store patient data have a legal obligation to inform patients of a breach because if patients' Protected Health Information (PHI) is exposed,
+    it can lead to identity theft and insurance fraud. PHI relates to the past, present, or future physical or mental health or condition of an individual,
+    whether it’s a plan of care or payments for care. Along with understanding HIPAA as a law, security professionals also need to be familiar with the Health
+    Information Trust Alliance (HITRUST®), which is a security framework and assurance program that helps institutions meet HIPAA compliance.
+
+
+    International Organization for Standardization (ISO) 
+    ISO was created to establish international standards related to technology, manufacturing, and management across borders. It helps organizations improve their
+    processes and procedures for staff retention, planning, waste, and services.
+
+
+
+    The Gramm-Leach-Bliley Act (GLBA), or Financial Services Modernization Act of 1999,
+    requires financial institutions to protect consumers' private information. It includes three main components:
+
+        Financial Privacy Rule: Institutions must inform customers about data collection and sharing practices and allow them to opt out of sharing with non-affiliated third parties.
+        Safeguards Rule: Institutions must implement security measures to protect customer data from unauthorized access or misuse.
+        Pretexting Provisions: The act prohibits obtaining personal data under false pretenses.
+        The GLBA applies to banks, credit unions, and other institutions handling financial information, requiring regular risk assessments, staff training, and security policy updates.
+        Non-compliance can lead to fines and reputational harm.
+
+
+
+
+
+    The Sarbanes-Oxley Act (SOX), passed in 2002, is a U.S. law to improve corporate accountability and protect investors by ensuring accurate financial reporting. It includes key provisions:
+
+        Executive Certification (Section 302 & 906): CEOs and CFOs must personally certify the accuracy of financial statements, holding them accountable for any misrepresentations.
+        Internal Controls (Section 404): Companies must implement and assess internal controls over financial reporting, with external audits.
+        Document Integrity (Section 802): Sets penalties for tampering with financial records.
+        Whistleblower Protection (Section 806): Shields employees who report fraud from retaliation.
+        SOX mandates transparency and aims to prevent corporate fraud, with severe penalties for non-compliance, including fines and jail time for executives.
+
+
+
+Based on the data we are storing, we must know the laws of keeping and securing that data and adhere to them.
+
+
+Ethical principles:
+
+    confidentiality
+    privacy protections, 
+    and laws
+
+
+Terms and definitions from Course 1, Module 3
+    Asset: An item perceived as having value to an organization 
+
+    Availability: The idea that data is accessible to those who are authorized to access it
+
+    Compliance: The process of adhering to internal standards and external regulations
+
+    Confidentiality: The idea that only authorized users can access specific assets or data
+
+    Confidentiality, integrity, availability (CIA) triad: A model that helps inform how organizations consider risk when setting up systems and security policies
+
+    Hacktivist: A person who uses hacking to achieve a political goal
+
+    Health Insurance Portability and Accountability Act (HIPAA): A U.S. federal law established to protect patients' health information
+
+    Integrity: The idea that the data is correct, authentic, and reliable
+
+    National Institute of Standards and Technology (NIST) Cyber Security Framework (CSF): A voluntary framework that consists of standards, guidelines, and best practices to manage cybersecurity risk
+
+    Privacy protection: The act of safeguarding personal information from unauthorized use
+
+    Protected health information (PHI): Information that relates to the past, present, or future physical or mental health or condition of an individual
+
+    Security architecture: A type of security design composed of multiple components, such as tools and processes, that are used to protect an organization from risks and external threats
+
+    Security controls: Safeguards designed to reduce specific security risks
+
+    Security ethics: Guidelines for making appropriate decisions as a security professional
+
+    Security frameworks: Guidelines used for building plans to help mitigate risk and threats to data and privacy
+
+    Security governance: Practices that help support, define, and direct security efforts of an organization
+
+    Sensitive personally identifiable information (SPII): A specific type of PII that falls under stricter handling guidelines
